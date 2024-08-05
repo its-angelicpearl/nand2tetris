@@ -7,4 +7,4 @@ https://www.nand2tetris.org/
 https://www.coursera.org/learn/build-a-computer
 
 Empezado el 20/12/2023.
-Terminado el s/f.
+Terminado el 17/01/2024.
